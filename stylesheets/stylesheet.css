@@ -13,6 +13,10 @@ body {
 	font-family: Verdana, sans-serif;
 }
 
+#header img {
+	border-radius: 50%;
+}
+
 #header h1, #header img, #header nav{
 	margin-left:auto;
 	margin-right: auto;
@@ -23,13 +27,8 @@ body {
 	color: white;
 }
 
-#header a:hover {
-	color: #00ffff;
-}
-
 #header ul {
 	list-style-type: none;
-	white-space: nowrap;	
 	text-decoration: none;
 }
 
@@ -79,7 +78,7 @@ nav li {
 	font-family: serif;
 }
 
-.section a:hover {
+a:hover {
 	background-color: black;
 	color: #00ffff;
 }
