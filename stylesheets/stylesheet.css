@@ -13,7 +13,7 @@ body {
 	font-family: Verdana, sans-serif;
 }
 
-#header .headsection {
+#header h1, #header img, #header nav{
 	margin-left:auto;
 	margin-right: auto;
 }
