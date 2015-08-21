@@ -15,6 +15,7 @@ body {
 
 .headsection {
 	display: list-item;
+	margin: inherit;
 }
 
 #header a {
