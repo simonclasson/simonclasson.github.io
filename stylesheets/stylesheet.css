@@ -29,6 +29,7 @@ body {
 #header ul {
 	list-style-type: none;
 	text-decoration: none;
+	display: inline;
 }
 
 #nav li {
