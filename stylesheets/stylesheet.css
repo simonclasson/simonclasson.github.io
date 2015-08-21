@@ -74,7 +74,7 @@ nav li {
 	margin: 10px;
 }
 
-/* to prevent top nav-bar from covering top part of page-jump sections 
+/* when using fixed header this prevents top nav-bar from covering top part of page-jump sections 
 .anchor {
 	display: block;
     position: absolute;
