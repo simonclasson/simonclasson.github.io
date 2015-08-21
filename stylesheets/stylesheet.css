@@ -30,7 +30,7 @@ body {
 }
 
 #name #portrait #nav {
-	display: inherit;
+	margin: auto;
 }
 
 #container {
