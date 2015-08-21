@@ -44,6 +44,7 @@ body {
 	float: right;
 	padding-top: 30px;  /*to make in-line with title name*/
 	margin-right: 10px;
+	clear: both;
 }
 
 #header ul {
@@ -52,6 +53,7 @@ body {
 	padding: 0;
 	white-space: nowrap;	
 	text-decoration: none;
+	clear: both;
 }
 
 nav li {
@@ -72,6 +74,7 @@ nav li {
 	background-color: white;
 	padding: 10px;
 	margin: 10px;
+	clear: both;
 }
 
 /* when using fixed header this prevents top nav-bar from covering top part of page-jump sections 
