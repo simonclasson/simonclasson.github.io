@@ -16,6 +16,11 @@ body {
 	font-family: Verdana, sans-serif;
 }
 
+.headsection {
+	position: relative;
+	margin: 10px;
+}
+
 #header h1 {
 	position: absolute;
 	float: left;
