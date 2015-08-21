@@ -19,24 +19,6 @@ body {
 .headsection {
 	position: relative;
 	margin: 10px;
-	padding: 10px;
-}
-
-#header h1 {
-	position: absolute;
-	float: left;
-	padding-left: 10px;
-}
-
-#header img {
-	border-radius: 50%;
-	margin: 10px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%);
-    clear: both;
 }
 
 #header a {
@@ -46,13 +28,6 @@ body {
 
 #header a:hover {
 	color: #00ffff;
-}
-
-#header nav {
-	float: right;
-	margin: 10px;
-	position: relative;
-	clear: both;
 }
 
 #header ul {
