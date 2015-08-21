@@ -16,8 +16,8 @@ body {
 .headsection {
 	width: 80%;
 	display: block;
-	margin-left: 10%;
-	margin-right: 10%;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 #header a {
