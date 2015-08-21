@@ -12,8 +12,6 @@ body {
 
 #header img {
 	border-radius: 50%;
-	margin-left: auto;
-	margin-right: auto;
 }
 
 #header a {
@@ -32,8 +30,7 @@ body {
 }
 
 #name #portrait #nav {
-	margin-left: auto;
-	margin-right: auto;
+	display: inherit;
 }
 
 #container {
