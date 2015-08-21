@@ -14,10 +14,10 @@ body {
 }
 
 .headsection {
-	max-width: 300px;
+	width: 80%;
 	display: block;
-	margin-left: 50%;
-	margin-right: 50%;
+	margin-left: 10%;
+	margin-right: 10%;
 }
 
 #header a {
