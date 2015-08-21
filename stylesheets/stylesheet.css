@@ -46,7 +46,7 @@ body {
 	float: right;
 	padding-top: 30px;  /*to make in-line with title name*/
 	margin-right: 10px;
-	
+	position: absolute;
 }
 
 #header ul {
