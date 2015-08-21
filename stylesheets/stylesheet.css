@@ -75,7 +75,7 @@ nav li {
 	margin: 10px;
 }
 
-/* to prevent top nav-bar from covering top part of page-jump sections */
+/* to prevent top nav-bar from covering top part of page-jump sections 
 .anchor {
 	display: block;
     position: absolute;
@@ -85,7 +85,7 @@ nav li {
     top: -100px;
     left: 0;
     visibility: hidden;
-}
+} */
 
 .section h3 {
 	font-family: serif;
