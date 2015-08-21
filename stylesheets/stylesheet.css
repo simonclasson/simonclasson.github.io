@@ -47,6 +47,7 @@ body {
 	padding-top: 30px;  /*to make in-line with title name*/
 	margin-right: 10px;
 	position: absolute;
+	clear: both;
 }
 
 #header ul {
@@ -55,7 +56,6 @@ body {
 	padding: 0;
 	white-space: nowrap;	
 	text-decoration: none;
-	clear: both;
 }
 
 nav li {
