@@ -5,11 +5,17 @@
         <title>Simon Classon</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
  	<link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-    	<!-- <script src="js/script.javascript"> -->
+    	<script>
+    		function prlx() {
+    			var p = document.getElementById('parallax');
+    			parallax.style.top = -(window.pageYOffset / 4)+'px';
+    		}
+    		window.addEventListener("scroll", prlx, false);
+    	</script>
   </head>
   
   <body>
-  	<div id= "parallax layer"></div>
+  	<div id= "parallax"></div>
   	<div id="content">
 	<div id="header">
 		<span id="intro-section" class= "anchor"></span>
