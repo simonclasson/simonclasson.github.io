@@ -3,7 +3,7 @@ body {
 }
 
 #parallax {
-	background-image: url("https://cloud.githubusercontent.com/assets/13892645/9416300/d4f71352-4812-11e5-999e-fab29eafa774.PNG");
+	background: url("https://cloud.githubusercontent.com/assets/13892645/9416300/d4f71352-4812-11e5-999e-fab29eafa774.PNG");
 	background-size: 100%;
 	position: fixed;
 }
