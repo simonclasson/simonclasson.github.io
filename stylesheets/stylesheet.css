@@ -12,6 +12,12 @@ body {
 	padding-top: 0;
 }
 
+#header a:hover {
+	color: #00ffff;
+	background-color: black;
+	
+}
+
 #header h1 {
 	padding-top: 10px;
 }
