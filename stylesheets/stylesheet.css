@@ -75,6 +75,11 @@ body {
 	background-color: white;
 	padding: 10px;
 	margin-top: 30px;
+	opacity: .6;
+}
+
+.section h3 p a {
+	opacity: 1;
 }
 
 /* to prevent top nav-bar from covering top part of page-jump sections 
