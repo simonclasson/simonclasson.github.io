@@ -8,7 +8,9 @@
     	<script>
     		function prlx() {
     			var p = document.getElementById('parallax');
+    			var q = document.getElementById('parallax1')
     			p.style.top = -(window.pageYOffset / 4)+'px';
+    			q.style.top = p.style.bottom;
     		}
     		window.addEventListener("scroll", prlx, false);
     	</script>
