@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+  	<title>Simon Classon</title>
+  	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+ 	<link rel="stylesheet" type="text/css" href="stylesheets/stylesheet2.css" media="screen">
+    <!--<script>
+    		function prlx() {
+    			var p = document.getElementById('parallax');
+    			p.style.top = -(window.pageYOffset / 4)+'px';
+    		}
+    		window.addEventListener("scroll", prlx, false);
+    	</script> -->
+  </head>
+  
+  <div id= "background"></div>
+  <body>
+    <h1>Simon Classon</h1>
+    <span id= "link">
+      <div>
+        <a href="https://github.com/simonclasson/"><img src= "http://talks.edunham.net/seagl2014/thinkingingit/_images/github.png"></a>
+        <a href="https://github.com/simonclasson/">GitHub</a>
+      </div>
+    </span>
+    <span id= "link">
+      <div>
+        <a href="https://github.com/simonclasson/"><img src= "http://zishantravels.co.uk/images/linkedin-xxl.png"></a>
+        <a href="https://github.com/simonclasson/">LinkedIn</a>
+      </div>
+    </span>
+    
+  <Body>
