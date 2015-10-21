@@ -7,7 +7,7 @@ body {
 #parallax {
 	background: url("https://cloud.githubusercontent.com/assets/13892645/10650255/5fb113de-7816-11e5-9df4-906b83b8e82a.PNG") no-repeat;
 	width: 100%;
-	position: fixed;
+	position: absolute;
 	background-size: 100%;
 	height: 100%;
 	top: 0;
