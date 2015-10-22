@@ -32,8 +32,8 @@ ul li {
 }
 
 ul li a {
+	font-family: Verdana, sans-serif;
 	text-decoration: none;
-	padding: .2em 1em;
 }
 
 img {
