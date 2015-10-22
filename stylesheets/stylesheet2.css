@@ -13,7 +13,7 @@ body {
 	top: 0;
 	left: 0;
 	background-image: url("https://cloud.githubusercontent.com/assets/13892645/10652249/07d2d0c8-7823-11e5-8699-6f591dd80238.JPG") no-repeat;
-	size: cover;
+	size: 100% 100%;
 	position: fixed;
 }
 
