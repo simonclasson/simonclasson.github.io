@@ -6,7 +6,19 @@ body {
 }
 
 h1 {
-  vertical-align: middle;
+	top: 50%;
+	left: 50%;
+	vertical-align: middle;
 }
 
+.link {
+	padding: 10px;
+	display: inline;
+	list-style-type: none;
+	text-decoration: none;
+}
 
+img {
+	width: 30px;
+	height: 30px;
+}
