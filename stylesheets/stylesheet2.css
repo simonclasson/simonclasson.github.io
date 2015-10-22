@@ -1,6 +1,7 @@
 body {
 	margin: 0px;
 	background: url("https://cloud.githubusercontent.com/assets/13892645/10652249/07d2d0c8-7823-11e5-8699-6f591dd80238.JPG") fixed;
+	background-size: 100% 100%;
 }
 
 h1 {
