@@ -1,6 +1,6 @@
 body {
 	margin: 0px;
-	background-image: url("https://cloud.githubusercontent.com/assets/13892645/10652249/07d2d0c8-7823-11e5-8699-6f591dd80238.JPG") no-repeat;
+	background-image: url("https://cloud.githubusercontent.com/assets/13892645/10652249/07d2d0c8-7823-11e5-8699-6f591dd80238.JPG") fixed;
 	height: 100%;
 	width: 100%;
 }
