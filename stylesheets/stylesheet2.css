@@ -4,7 +4,7 @@ body {
 	background-size: 100% 100%;
 }
 
-@media only screen and (max-device-width: 460px) {
+@media only screen and (max-width: 460px) {
     body { 
     	margin: 0px;
         background: url("https://cloud.githubusercontent.com/assets/13892645/10671462/b111f444-78b8-11e5-851c-cb84d88654b5.PNG") fixed no-repeat;
