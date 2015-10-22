@@ -12,12 +12,19 @@ h1 {
 
 ul {
 	padding: 10px;
-	display: inline;
 	list-style-type: none;
-	text-decoration: none;
+	
 	display: inline;
-	margin-left: auto;
-	margin-right: auto;
+	margin: 0;
+	padding: 0;
+}
+
+ul li {
+	display: inline;
+}
+
+ul li a {
+	text-decoration: none;
 }
 
 img {
