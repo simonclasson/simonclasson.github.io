@@ -7,6 +7,8 @@ body {
 
 #content {
 	position: absolute;
+	width: 80%;
+	height: 100%;
 }
 
 #background {
