@@ -7,20 +7,19 @@ body {
 #parallax {
 	background: url("https://cloud.githubusercontent.com/assets/13892645/10349634/795c21f2-6d0d-11e5-8f70-51c7eb261216.PNG") no-repeat center center fixed;
 	background-size: cover;
-	width: 150%;
-	height: 150%;
 	top: 0;
 	left: 0;
 }
 
 #content {
+	top: 0;
 	position: absolute;
 	width: 100%;
-
 }
 
 
 #header {
+	top: 0;
 	width: 100%;
 	background-color: black;
 	color: white;
