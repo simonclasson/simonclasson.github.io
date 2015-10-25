@@ -4,12 +4,12 @@ body {
 }
 
 #parallax {
-	background: url("https://cloud.githubusercontent.com/assets/13892645/10349634/795c21f2-6d0d-11e5-8f70-51c7eb261216.PNG") no-repeat center center fixed;
+	background: url("https://cloud.githubusercontent.com/assets/13892645/10349634/795c21f2-6d0d-11e5-8f70-51c7eb261216.PNG") no-repeat center fixed;
 	top: 0;
 	left: 0;
-	background-size: 150% 150%;
-	height: 100%;
-	width: 100%;
+	background-size: cover;
+	height: 150%;
+	width: 150%;
 }
 
 #content {
