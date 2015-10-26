@@ -6,19 +6,19 @@ body {
 @media only screen and (max-width: 460px) {
     #parallax { 
     	margin: 0;
-    	background: url("https://cloud.githubusercontent.com/assets/13892645/10718913/c4d68aa6-7b53-11e5-84d4-76caf6f21555.jpg") no-repeat center center;
+    	background: url("https://cloud.githubusercontent.com/assets/13892645/10718913/c4d68aa6-7b53-11e5-84d4-76caf6f21555.jpg") no-repeat;
 	height: 140%;
 	width: 255%;
-	position: fixed;
+	position: fixed center center;
     }
 }
 
 #parallax {
 	margin: 0;
-	background: url("https://cloud.githubusercontent.com/assets/13892645/10718913/c4d68aa6-7b53-11e5-84d4-76caf6f21555.jpg") no-repeat center center;
+	background: url("https://cloud.githubusercontent.com/assets/13892645/10718913/c4d68aa6-7b53-11e5-84d4-76caf6f21555.jpg") no-repeat;
 	height: 150%;
 	width: 170%;
-	position: fixed;
+	position: fixed center center;
 }
 
 #content {
