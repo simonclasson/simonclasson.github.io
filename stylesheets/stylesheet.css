@@ -64,13 +64,12 @@ body {
 
 #header ul {
 	list-style-type: none;
-	text-decoration: none;
-	display: inline;
+	text-align: center;
 }
 
-#nav li {
-	padding: 10px;
-	display: inline;
+#nav ul li {
+	padding-right: 10px;
+	display: inline-block;
 }
 
 #container {
@@ -113,10 +112,6 @@ body {
 .section a {
 	text-decoration: none;
 	color: black;
-	font-family: serif;
-}
-
-a {
 	font-family: Verdana, sans-serif;
 }
 
