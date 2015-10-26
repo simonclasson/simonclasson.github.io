@@ -1,6 +1,6 @@
 body {
 	margin: 0px;
-	background: #ffffff fixed;
+	background: #ffffff fixed center center;
 }
 
 @media only screen and (max-width: 460px) {
