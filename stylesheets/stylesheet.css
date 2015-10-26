@@ -12,7 +12,11 @@ body {
     }
 }
 
-h1 {
+#content {
+	vertical-align: middle;
+}
+
+#content h1 {
 	vertical-align: middle;
 	margin: auto;
 	text-align: center;
@@ -20,25 +24,25 @@ h1 {
 	color: #000000;
 }
 
-ul {
+#content ul {
 	list-style-type: none;
 	text-align: center;
 	margin: 0;
 	padding: 0;
 }
 
-ul li {
+#content ul li {
 	display: inline-block;
 	padding-right: 10px;
 }
 
-ul li a {
+#content ul li a {
 	color: #000000;
 	font-family: Verdana, sans-serif;
 	text-decoration: none;
 }
 
-img {
+#content img {
 	width: 40px;
 	height: 40px;
 	border-radius: 5px;
