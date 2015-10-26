@@ -13,6 +13,7 @@ body {
 }
 
 h1 {
+	vertical-align: middle;
 	margin: auto;
 	text-align: center;
 	font-family: Verdana, sans-serif;
