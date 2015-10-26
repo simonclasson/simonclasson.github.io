@@ -56,7 +56,7 @@ body {
         left: 50%;
 }
 
-#header a {
+#header ul li a {
 	text-decoration: none;
 	color: white;
 }
