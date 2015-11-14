@@ -12,6 +12,32 @@ body {
     }
 }
 
+#header {
+	margin:0;
+	height: 35px;
+	width:100%;
+	background-color: #000000;
+}
+
+#header ul {
+	list-style-type: none;
+	text-align: center;
+	margin: 0;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#header ul li {
+	display: inline-block;
+	padding-right: 10px;
+}
+
+#header ul li a {
+	color: #fff300;
+	font-family: Verdana, sans-serif;
+	text-decoration: none;
+}
+
 #content {
 	padding-top: 5em;
 }
