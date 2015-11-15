@@ -30,6 +30,7 @@ body {
 #header ul li {
 	display: inline-block;
 	padding-right: 10px;
+	color: #fff300;
 }
 
 #header ul li a {
