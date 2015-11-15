@@ -23,14 +23,15 @@ body {
 	list-style-type: none;
 	text-align: center;
 	margin: 0;
-	padding-top: 10px;
-	padding-bottom: 15px;
+	
 }
 
 #header ul li {
 	display: inline-block;
 	padding-right: 10px;
 	color: #fff300;
+	padding-top: 10px;
+	padding-bottom: 15px;
 }
 
 #header ul li a {
