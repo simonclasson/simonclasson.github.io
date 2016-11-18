@@ -9,7 +9,7 @@ body {
 @media only screen and (max-width: 460px) {
     body { 
     	margin: 0px;
-        background: url("https://cloud.githubusercontent.com/assets/13892645/10650255/5fb113de-7816-11e5-9df4-906b83b8e82a.PNG") no-repeat center center fixed;
+        background: url("https://cloud.githubusercontent.com/assets/13892645/20414346/e1f8f6fc-ad96-11e6-9dec-4d6d67e7e243.jpg") no-repeat center center fixed;
         background-size: cover;
     }
 }
@@ -37,8 +37,8 @@ body {
 }
 
 #header ul li a {
-	color: #fff300;
-	font-family: Verdana, sans-serif;
+	color: #FFFFFF;
+	font-family: Qontra, url("Qontra.otf);
 	text-decoration: none;
 }
 
@@ -49,8 +49,8 @@ body {
 #content h1 {
 	padding-bottom: .8em;
 	text-align: center;
-	font-family: Verdana, sans-serif;
-	color: #000000;
+	font-family: Qontra, url("Qontra.otf);
+	color: #FFFFFFF;
 }
 
 #content ul {
