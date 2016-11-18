@@ -2,6 +2,7 @@ body {
 	margin: 0px;
 	background: url("https://cloud.githubusercontent.com/assets/13892645/20414346/e1f8f6fc-ad96-11e6-9dec-4d6d67e7e243.jpg") no-repeat center center fixed;
 	background-position: top;
+	width: 100%;
 }
 
 @media only screen and (max-width: 460px) {
