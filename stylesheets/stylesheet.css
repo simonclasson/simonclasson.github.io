@@ -44,10 +44,15 @@ body {
 	padding-top: 5em;
 }
 
+@font-face {
+    font-family: "Qontra";
+    src: url(Qontra.otf) format("truetype");
+}
+
 #content h1 {
 	padding-bottom: .8em;
 	text-align: center;
-	font-family: Verdana, sans-serif;
+	font-family: Qontra, sans-serif;
 	color: #FFFFFF;
 }
 
