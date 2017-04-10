@@ -2,13 +2,13 @@ body {
 	margin: 0px;
 	width: 100%;
 	min-height: 1000px;
-	background: #FFFFFF url("https://cloud.githubusercontent.com/assets/13892645/10650255/5fb113de-7816-11e5-9df4-906b83b8e82a.PNG") no-repeat center center fixed;
+	background: #FFFFFF url("https://cloud.githubusercontent.com/assets/13892645/10650255/5fb113de-7816-11e5-9df4-906b83b8e82a.PNG") no-repeat center center fixed cover;
 }
 
 @media only screen and (max-width: 500px) {
     body { 
 	margin: 0px;
-        background: #FFFFFF url("https://cloud.githubusercontent.com/assets/13892645/10650255/5fb113de-7816-11e5-9df4-906b83b8e82a.PNG") no-repeat center center fixed;
+        background: #FFFFFF url("https://cloud.githubusercontent.com/assets/13892645/10650255/5fb113de-7816-11e5-9df4-906b83b8e82a.PNG") no-repeat center center fixed cover;
     }
 }
 
